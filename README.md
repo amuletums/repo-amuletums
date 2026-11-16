@@ -1,1 +1,13 @@
 # repo-amuletums
+# Halo, aku Riespati Khairunnisa 👋
+Mahasiswa Informatika semester 3 di Telkom University. Lagi belajar AI develop dan
+tertarik di AI.
+## Tech Stack
+- Bahasa: ...
+- Tools: ...
+## Project
+- [Nama Project](link-repo): satu kalimat deskripsi
+- [Nama Project](link-repo): satu kalimat deskripsi
+## Kontak
+- LinkedIn: ...
+- Email: ...
